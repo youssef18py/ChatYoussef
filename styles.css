@@ -6,12 +6,13 @@
   --button-bg-dark: #3a3a3a;
   --accent-color: #ff5722; /* لون مميز للتفاعل */
 
-  --bg-color-light: #f9f9f9;
-  --text-color-light: #121212;
-  --container-bg-light: #ffffff;
-  --input-bg-light: #f0f0f0;
-  --button-bg-light: #e0e0e0;
-  --accent-color-light: #ff7043;
+  /* ألوان الثيم الفاتح المعدلة */
+  --bg-color-light: #ffffff;           /* خلفية فاتحة */
+  --text-color-light: #333333;           /* نص بألوان رمادية داكنة */
+  --container-bg-light: #f5f5f5;         /* خلفية الحاويات */
+  --input-bg-light: #fafafa;             /* خلفية الحقول */
+  --button-bg-light: #dedede;            /* خلفية الأزرار */
+  --accent-color-light: #ff6f00;         /* لون مميز للأزرار والتفاعل */
 }
 
 * {
